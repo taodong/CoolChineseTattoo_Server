@@ -1,0 +1,35 @@
+#Restful resources
+
+#Local
+#resource.sample.url=http://localhost:8080/cth/samples/
+#resource.sample.folder=/opt/apache-tomcat-7.0.8/webapps/cth/samples/
+#resource.sample.format=png
+
+#resource.font.folder=/opt/apache-tomcat-7.0.8/tao/cth/fonts/
+
+#Test
+#resource.sample.url=http://dancesketches.com/cth/samples/
+#resource.sample.folder=/opt/tomcat/webapps/cth/samples/
+#resource.sample.format=png
+
+#resource.font.folder=/opt/tomcat/cth/fonts/
+
+#Production
+resource.sample.url=http://daijt.com/cth/samples/
+resource.sample.folder=/opt/tomcat/webapps/cth/samples/
+resource.sample.format=png
+
+resource.font.folder=/opt/tomcat/cth/fonts/
+
+
+#Microsoft Bing Translator
+microsoft.app.id=28D8EDBC39C00E3B135DE9CAE64056095E7C741C
+translator.url=http://api.microsofttranslator.com/v2/Http.svc/Translate?text=
+translator.lng.en=en
+translator.lng.ch.s=zh-CHS
+translator.lng.ch.t=zh-CHT
+
+#Handset specs
+iphone.img.width=320
+iphone.img.height=320
+iphone.text.size=260

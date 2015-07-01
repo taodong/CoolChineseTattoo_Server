@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/CTH-WS/!svn/ver/2/trunk/src/main/java/com/daijt/cth/service
+END
+DictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CTH-WS/!svn/ver/2/trunk/src/main/java/com/daijt/cth/service/DictionaryService.java
+END
+CFontService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CTH-WS/!svn/ver/2/trunk/src/main/java/com/daijt/cth/service/CFontService.java
+END
+DownloadHistoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CTH-WS/!svn/ver/2/trunk/src/main/java/com/daijt/cth/service/DownloadHistoryService.java
+END
